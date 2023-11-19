@@ -1,5 +1,5 @@
 # C-Workshop-Auriga
-C++ Workshop - Auriga - Shahid Beheshti University Robotics Lab
+C++ Workshop - Auriga - Shahid Beheshti University Robotics Lab - 2023
 
 Content:
 - Course Slides
