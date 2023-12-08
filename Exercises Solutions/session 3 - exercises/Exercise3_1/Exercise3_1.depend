@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702020572 source:g:\cpp codes\cpp workshop\session 3 - exercises\exercise3_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<limits.h>
+
