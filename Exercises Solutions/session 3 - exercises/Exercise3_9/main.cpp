@@ -9,6 +9,10 @@ bool is_prime(int input)
     {
         return false ;
     }
+else if (input == 2)
+{
+	return true;S
+}
     else
     {
         for (int i=sqrt(input)+1 ; i>=2 ; i--)
