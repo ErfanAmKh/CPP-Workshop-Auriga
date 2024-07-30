@@ -27,10 +27,15 @@ Finally, I extend my heartfelt thanks to the friends of the Robotics Association
 
 
 
-<link rel="stylesheet" type="text/css" href="style.css">
 
-<div class="persian-text">
-_
-خواهی که سخت و سست جهان بر تو بگذرد / بگذر ز عهد سست و سخن‌های سخت خویش_
-</div>
+
+
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div class="persian-text">
+  خواهی که سخت و سست جهان بر تو بگذرد / بگذر ز عهد سست و سخن‌های سخت خویش
+
+    </div>
+
+
 
