@@ -9,6 +9,8 @@ The final project of the course was the implementation of the game **"Minesweepe
 
 Finally, I extend my heartfelt thanks to the friends of the Robotics Association of Shahid Beheshti University, the members of the Auriga Robotics Team, and the esteemed teaching assistants who helped organize this course.
 
+
+
 **Content**:
 - Course Slides
 - Solutions for Exercises
@@ -21,3 +23,8 @@ Finally, I extend my heartfelt thanks to the friends of the Robotics Association
 - Email: erfanamkh2002@gmail.com
 - Telegram: @erfanamkh
 - LinkedIn: https://www.linkedin.com/in/erfan-khalili/
+
+
+
+
+خواهی که سخت و سست جهان بر تو بگذرد / بگذر ز عهد سست و سخن‌های سخت خویش
