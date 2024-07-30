@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+
+.persian-text {
+    font-family: 'Vazirmatn', sans-serif;
+    direction: rtl;
+    text-align: right;
+}
