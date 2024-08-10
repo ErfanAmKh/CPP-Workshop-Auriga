@@ -7,7 +7,7 @@ The course covered both basic and intermediate C++ programming topics. It was de
 
 The final project of the course was the implementation of the game **"Minesweeper"**. The efforts of all students in implementing the project and exercises were commendable. The top three implementations of the final project were by "Mahdi Azimi", "Amir Reza Ramsh", and "Mohammad Esteghamat." (The codes can be found in the repository).
 
-Finally, I extend my heartfelt thanks to the friends of the Robotics Association of Shahid Beheshti University, the members of the Auriga Robotics Team, and the esteemed teaching assistants who helped organize this course.
+Finally, I extend my heartfelt gratitude to the friends of the Robotics Association of Shahid Beheshti University, the members of the Auriga Robotics Team, and the esteemed teaching assistants who helped organize this course.
 
 
 
