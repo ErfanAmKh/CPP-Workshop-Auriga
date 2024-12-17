@@ -13,6 +13,7 @@ The final project of the 2024 course is actually two projects: 1) The implementa
 
 Unlike some educational workshops where the content is repeated each year like an open-loop system, we made an effort to improve the structure of the second-year curriculum based on feedback from the first year and to keep ourselves up-to-date.
 ( If this process continues for a hundred years, we will still follow the same approach. :) )
+
 As a result, the problems and projects from the first and second years are certainly not identical. Additionally, some topics were added to the course content in the second year.
 Therefore, problem-solving enthusiasts are encouraged to review the problems and projects from both years.
 
